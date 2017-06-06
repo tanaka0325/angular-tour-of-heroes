@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "tour-of-heroes",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "tour of heroes tutorial",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
@@ -21,7 +21,7 @@
     "lint": "tslint ./src/**/*.ts -t verbose"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hiroyuki Tanaka <h.tanaka.0325@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~4.0.0",
